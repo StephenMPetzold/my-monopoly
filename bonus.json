@@ -1,0 +1,31 @@
+{"bonusCards": {
+    "community": [
+        {
+        "id": 1,
+        "description": "community description 1"
+        },
+        {
+        "id": 2,
+        "description": "community description 2"
+        },
+        {
+        "id": 3,
+        "description": "community description 3"
+        }
+    ],
+    "chance": [
+        {
+        "id": 1,
+        "description": "chance description 1"
+        },
+        {
+        "id": 2,
+        "description": "chance description 2"
+        },
+        {
+        "id": 3,
+        "description": "chance description 3"
+        }
+    ]
+  }
+} 

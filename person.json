@@ -1,0 +1,25 @@
+{"person": {
+    "state": {
+        "starting-order": 2,
+        "current-turn": true,
+        "in-jail": false,
+        "bankrupt": false,
+        "first-pass": false,
+        "buying": true
+    },
+    "token": {
+        "type": "dog",
+        "location": "Park Place"
+    },
+    "roll": {
+        "dice1": 5,
+        "dice2": 5,
+        "num-roll": 4
+    },
+    "owns": { 
+        "money": 6000,
+        "property": ["Boardwalk", "Park Place"],
+        "bonus-card": ["Get out of Jail Free", "Something else"]
+    }
+  }
+}

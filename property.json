@@ -1,0 +1,19 @@
+{"property": {
+    "details": {
+        "id": 1,
+        "name": "Boardwalk",
+        "rent": 50,
+        "price": 400
+    },
+    "improvments": {
+        "house": "4",
+        "hotel": true
+    },
+    "owner": {
+        "name": "Player1" 
+    }
+  }
+} 
+
+
+
