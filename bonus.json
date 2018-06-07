@@ -2,29 +2,29 @@
     "community": [
         {
         "id": 1,
-        "description": "community description 1"
+        "description": "Bank error in your favor (Collect 200M)"
         },
         {
         "id": 2,
-        "description": "community description 2"
+        "description": "Pay school tax of 150M."
         },
         {
         "id": 3,
-        "description": "community description 3"
+        "description": "Life insurance matures (Collect 100M)."
         }
     ],
     "chance": [
         {
         "id": 1,
-        "description": "chance description 1"
+        "description": "Advance to Go (Collect 200M)."
         },
         {
         "id": 2,
-        "description": "chance description 2"
+        "description": "Go back three spaces."
         },
         {
         "id": 3,
-        "description": "chance description 3"
+        "description": "Pay poor tax of 15M."
         }
     ]
   }
