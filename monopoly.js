@@ -32,7 +32,7 @@ function roll() {
   console.log("For a total of " + diceTotal);
   console.log("Got doubles? " + gotDoubles);
   console.log("Doubles count is " + doublesCount);
-
+  
 }
 
 function singleRoll() {
